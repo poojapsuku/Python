@@ -1,3 +1,5 @@
+import string
+
 i=1
 j = int(input("Enter Pattern Limit: "))
 
@@ -10,3 +12,4 @@ while i <= k:
     j = j-1
 
     i = i+1
+
